@@ -75,20 +75,6 @@ project-folder/
 └── README.md
 ```
 
-## 🚀 Running the Project
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/birthday-website.git
-```
-
-2. Open the project folder.
-
-3. Launch `index.html` in your browser.
-
-No additional setup is required.
-
 ## 🎁 Purpose
 
 This project was created as a creative and meaningful birthday gift. Instead of a traditional card, it combines design, coding, music, and personal memories into a unique interactive experience.
